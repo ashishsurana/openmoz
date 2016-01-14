@@ -1,0 +1,17 @@
+<article class="artworklist">
+  <h1>Events gallery  <i class="fa fa-file-image-o"></i></h1>
+	<% if (page!= 'home') { %>
+		<% if (page === 'eventsList') { %>
+	    	<p>While you attend the event, head over to our event's page where you can check out some of the previously held events <i class="fa fa-chevron-circle-down"></i></p>
+		<% } else { %>
+     		<p>Here are some photos from event <i class="fa fa-chevron-circle-down"></i></p>
+		<% } %>
+	<% } %>
+  <div class="pixgrid">
+    <% if (eventpics.length > 0) { %>
+      <% for (i=0; i<eventpics.length; i++) { %>
+        <img src="/images/events/<%= eventpics[i] %>" alt="Eventpic <%= i %>">
+      <% } %>
+    <% } %>
+  </div>
+</article>

@@ -1,0 +1,21 @@
+<article class="speakerslist">
+  <section class="layout">
+    <div class="speakers">
+      <% events.forEach(function(item) { %>
+        <article class="artist group">
+          <h3><a href="/events/<%= item.shortname %>"><%= item.title %> <span class="small"><i class="fa fa-calendar"></i>
+            <%= item.date %></a><span></h3>
+            <p>
+              <% if (page!= 'home') { %>
+                <% if (page === 'eventsList') { %>
+                  <%- item.summary %>
+                <% } else { %>
+                  <%- item.description %>
+                <% } %>
+              <% } %>
+            </a></p>
+        </article>
+      <% }); %>
+    </div>
+  </section>
+</article>
