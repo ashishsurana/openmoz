@@ -20,7 +20,7 @@ After cloning OpneMoz repository to your local machines follow this steps:
 
 3.Now install install npm dependencies
    * $ npm init
-   
+
 4.This time install express-generator
    * $ npm install -g express-generator
 
@@ -30,7 +30,7 @@ you are done with setting up environment
 
 ## Structure of directory
     openmoz
-	.
+	|
 	+-- bin
 	|   +-- www
 	+-- node_modules
