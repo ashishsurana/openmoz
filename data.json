@@ -1,33 +1,33 @@
 {
   "blogs": [{
-    "title" : "Cluster Meetup",
-    "author": "OpenMozAuthor",
-    "date": "22 Aug 2015",
-    "shortname" : "Cluster_Meetup",
-    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Lorenzo Garcia brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
-    "description": "<p>Lorenzo was born in Mexico, but grew up in Southern California after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Lorenzo to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
+    "title" : "Privacy: mission to protect ourself",
+    "author": "Aswin Devarajan",
+    "date": "28 December 2015",
+    "shortname" : "Privacy:mission_to_protect_ourself",
+    "summary" : "<p>We have always been bit lazy of those things that we take for granted. Privacy is one such thing. At first we were afraid even to upload our picture on internet but these days you don’t even get a chance for a second thought to think what you are sharing with a billion. Amazing progress in the field of abstraction and manipulation. But do you really care?</p><br />",
+    "description": "<p>We have always been bit lazy of those things that we take for granted. Privacy is one such thing. At first we were afraid even to upload our picture on internet but these days you don’t even get a chance for a second thought to think what you are sharing with a billion. Amazing <b>progress</b> in the field of abstraction and manipulation. But do you really care?</p><p>It’s not about the wave of notifications on free basis that flooded our screens recently which made us flow with the flow or the Net neutrality war that every free thinker is fighting against #@!@#$%%@! (aka big names ). Its about you, as an Internet Being after all we have evolved from Human Beings to Internet Beings when the point came when we couldn’t live without internet and smart devices even a single day. So there is need to take care of ourself and our privacy and not get bullied on internet after all its a comman property of everyone and for everyone.</p><p>Privacy Month, an iniative by mozilla to celebrate International Data Privacy Day. A global level campaign to bring out the lazy mind from its comfort zone and to start acting and thinking about the Internet Privacy Issue.</p><p>we conducted the event at our college canteen with the members of OpenMoz Club. we started with an opening introduction about Mozilla Community and OpenMoz club by me, after all we had some newbees with us from second year.</p><p>Then moving onto Privacy, covered by Hitesh and me. breaking the topics to following points - What do you mean by data privacy and security? - Its your Footprint everywhere. - lets be smart with what we share. - 3rd party tracking.</p><p>The interesting questions were: - What’s difference between Free Basics and Free Internet? - How is it going to affect us? - Why use DuckDuckGo rather then google? - How does facebook and google use our data?</p><p>The fun part was, these question came before we even started our session. And answering these questions was equally fun. We had some very fruitful disccusion on private browsing, setting permissions, Do Not Track feature, LightBeam, Tor, Telegram Messenger.</p><p>In the end the message is reached across the members of OpenMoz club, next its you. Let’s be a part of this campaign….and aware people about #PrivacyMonth #Advocate4Privacy</p>",
     "mainpic":"pic1.jpg",
     "eventpics": []
 
   },{
-    "title" : "Second Blog",
-    "author": "OpenMozAuthor",
-    "date": "22 Aug 2015",
-    "shortname" : "Second_Blog",
-    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Lorenzo Garcia brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
-    "description": "<p>Lorenzo was born in Mexico, but grew up in Southern California after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Lorenzo to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
+    "title" : "Ubuntu Workshop",
+    "author": "Hitesh Verma",
+    "date": "01 December 2015",
+    "shortname" : "Ubuntu_Workshop",
+    "summary" : "<p>The event was about the Introduction to ubuntu and knowing about linux, where we shared some information about installing ubuntu, using virtualbox, and “why ubuntu?”.</p><br />",
+    "description": "<p>The event was about the Introduction to ubuntu and knowing about linux, where we shared some information about installing ubuntu, using virtualbox, and “why ubuntu?”.The hands-on Sessions were also given on basic command line.</p><p>Overall objective of the event:<ul><li> To motivate the students about using open source technologies.</li><li>Introduction to linux distros.</li><li> Difference between Conventional Windows operating system and linux distros</li><li>Brief about Ubuntu, It’s community, and switching to ubuntu in easy steps.</li></ul></p><p>Highlights of success:<ul><li>This 90 minutes workshop was successfully accomplished. All the students got that stuff which was difficult to get by any other means. They are now not scared of linux which was totally command based according to you. 90 Students were present in this event.</ul></li></p><p>Feedback from Attendees:<ul><li>Overall We've got the positive Response. The students enjoyed the session. They got all the answers of their doubts on Android Linux, Ubuntu and FOSS. And for few of them, they are now away from the misconception that linux is totally command based. The hands-on session was the most helpful part.</li></ul></p><p>Logistics/Planning:<ul><li>The day before the worksop, we All the speakers had fasten up their seat belts, we gave a lot of time to make our slides attractive so that better Audio Visual layouts can make them easy to understand. The Workshop was held in the computer lab so that they can do hands on.</li></ul></p><p>Key learning:<ul><li>The event was helpful as we got to know how to manage the things at the last moment efficiently. Next time we’d take all the test cases, so that there is no mesh up at last time. In future, we’ll try to make it more interactive with students.</li></ul></p>",
+    "mainpic":"pic1.jpg",
+    "eventpics": []
+  },{
+    "title" : "Webathon",
+    "author": "Lavish Aggarwal",
+    "date": "18 November 2014",
+    "shortname" : "Webathon",
+    "summary" : "<p>‘’Gaining knowledge is the first step to wisdom. Sharing it, is the first step to humanity’’ with this idea in minds, our team at Arya College of Engineering & I.T. heralded the first ‘Hands on session’ workshop on  HTML, CSS and brief about JS.</p><br />",
+    "description": "<p>‘’Gaining knowledge is the first step to wisdom. Sharing it, is the first step to humanity’’ with this idea in minds, our team at Arya College of Engineering & I.T. heralded the first ‘Hands on session’ workshop on  HTML, CSS and brief about JS.</p><p>The workshop was suddenly announced for all the students of CS-A(II yr.). The students were filled with joy and happiness, when they told that they are going for the exciting and learning session instead of their boring lectures. All the students gathered in the computer lab, switched on their terminals and were ready to experience a roller-coaster ride with the team. The session started at around 9 A.M. with little briefing about the Google Team and the agenda of workshop.</p><p>Starting with the workshop me and Ashwin introduced students to Google Club and informed them about various opportunities that they can gain with the help of this club. Students were very excited to know about various internship and scholarships program provided by Google for University Students. I told them about all the internship programs and all the opportunities they can receive from Google and also informed them about all the skills they needed to have benefits of these internship programs. Students were amazed to see Google products that they were not even aware of like Google Cardboard, Google Glass, Google</p><p>Moving further with the workshop, me along with Ayush started introducing them with HTML. Students really showed their interest in learning HTML throughly. The most important thing was that the participant were really very interactive so they cleared all doubts at instance.As it was a completely Hands On Session so they loved it to implement what they had learned and made their own web pages with their own design.</p><p>The session became much more interactive and interesting when they were presented swags and gifts for being inquisitive towards HTML. All the volunteers were very helpful during the entire session.Interest among students was boost up when we showed the magic of CSS in workshop. The student implemented all concept and loved CSS too much that they were not willing to leave class as there is no end of CSS.</p><p>The best thing about the workshop was that all the students felt relaxed, free and were at ease to ask any kinds of doubts from the seniors while they are always a bit hesitant in front of the teacher. We also provided them many more tutorials for further more depth knowledge about the topics.</p><p>The session wrapped up at around 4PM, with the promise of meeting soon to learning many new things in the future because we must “Never stop learning because life never stops teaching”.</p><p>In the end I wanna Thanks my team for making it a great success, because without their help this event was not possible.</p><p>Do Cool Things That Matters</p>",
     "mainpic":"pic1.jpg",
     "eventpics": []
 
-  },{
-    "title" : "Third Blog",
-    "author": "OpenMozAuthor",
-    "date": "22 Aug 2015",
-    "shortname" : "Third_Blog",
-    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Lorenzo Garcia brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
-    "description": "<p>Lorenzo was born in Mexico, but grew up in Southern California after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Lorenzo to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
-    "mainpic":"pic1.jpg",
-    "eventpics": []
   }],
 
   "events": [{
@@ -189,10 +189,10 @@
 
 
   "meeting" : {
-    "date": "January 27th",
-    "time": "3:30-5pm",
+    "date": "January 25th",
+    "time": "11am-5pm",
     "where": {
-      "name": "Cafeteria",
+      "name": "LNMIIT",
       "img": "/images/misc/meetup_location.jpg",
       "address": ""
     }
