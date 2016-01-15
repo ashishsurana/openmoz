@@ -12,14 +12,17 @@ We welcome new contributors to dive in and improve our webite. It's a great, han
 After cloning OpneMoz repository to your local machines follow this steps:
 
 1.Move to openmoz directory
+
 2.Install NPM by typing
-    $ sudo apt-get update
-    $ sudo apt-get install nodejs
-    $ sudo apt-get install npm
+   * $ sudo apt-get update
+   * $ sudo apt-get install nodejs
+   * $ sudo apt-get install npm
+
 3.Now install install npm dependencies
-    $ npm init
+   * $ npm init
+   
 4.This time install express-generator
-    $ npm install -g express-generator
+   * $ npm install -g express-generator
 
 you are done with setting up environment
 
