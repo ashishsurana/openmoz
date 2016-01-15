@@ -1,8 +1,8 @@
 # Welcome to OpneMoz's Website Repository
 
-[![Build Status]()]()
 
-**Contribute and helping other build new things is what an Open Source is.**
+
+**Contribution and helping other build new things is what an Open Source is.**
 
 Read the instructions below if you want to contribute to OpenMoz website.Our website is created by an open source community of developers like you. Welcome!
 
@@ -92,4 +92,4 @@ If you have made changes to json file always validate the json file at [jason va
 
 Want help? Need to think out loud? 
 
-[!Talk to us on Slack](mailto:openmoz@tutanota.com?subject=AddMe) or [email us](mailto:openmoz@tutanota.com).
+[Talk to us on Slack](mailto:openmoz@tutanota.com?subject=AddMe) or [email us](mailto:openmoz@tutanota.com).
