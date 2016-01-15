@@ -90,6 +90,8 @@ Have a some idea that you want to in our website or make something even better? 
 After you have made your changes, check on local machine if site is working properly or not.
 If you have made changes to json file always validate the json file at [jason validator](https://jsonformatter.curiousconcept.com) before commiting changes or crearing PR! 
 
+Message us before making a Pull Request.
+
 ## Discuss with Us
 
 Want help? Need to think out loud? 
