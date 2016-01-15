@@ -1,0 +1,21 @@
+<title><%= title %></title><!--dynamic title-->
+<link rel='stylesheet' href='/stylesheets/style.css' /><!--CSS-->
+<link rel="icon" type="image/gif" href="/images/misc/openmozfavicon.png" alt="OpenMoz Logo"><!--openmoz icon-->
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<script type="text/javascript">
+   var started;
+   function showLightBox()
+  { 
+    if (started) return;
+    started = setTimeout(function(){
+        Lightbox.start(document.getElementById('firstImage'));
+        started;
+    },500);
+  }
+  function stopShowLightBox(){
+    if (started) {
+        clearTimeout(started)
+        started = 0;
+    }
+  }
+</script>

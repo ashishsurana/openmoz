@@ -1,0 +1,22 @@
+<article class="blogslist">
+  <section class="layout">
+    <div class="blogs">
+      <% blogs.forEach(function(item) { %>
+        <article class="artist group">
+          <h3><a href="/blogs/<%= item.shortname %>"><%= item.title %></a> <span class="small">- by
+            <a href="/blogs/<%= item.shortname %>">
+            <%= item.author %></a><span></h3>
+            <p>
+              <% if (page!= 'home') { %>
+                <% if (page === 'blogsList') { %>
+                  <%- item.summary %>
+                <% } else { %>
+                  <%- item.description %>
+                <% } %>
+              <% } %>
+            </a></p>
+        </article>
+      <% }); %>
+    </div>
+  </section>
+</article>

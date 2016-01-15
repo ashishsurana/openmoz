@@ -1,0 +1,15 @@
+<article class="artworklist">
+  <h1>Blogs list</h1>
+  <p>Checkout other blogs</p>
+  <div class="pixgrid">
+    <div class="blogs">
+      <% blogs.forEach(function(item) { %>
+        <article class="artist group">
+         <ul>
+          <li><a href="/blogs/<%= item.shortname %>"><%= item.title %></a></li> 
+         </ul>
+        </article>
+      <% }); %>
+    </div>
+  </div>
+</article>
