@@ -145,6 +145,9 @@ footer {
   padding-bottom: 100px;
 }
 
+footer .layout p i {
+  color: #F44336;
+}
 .speakers h3 {
   padding-top: 10px;
   padding-bottom: 5px;
