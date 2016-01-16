@@ -7,6 +7,9 @@ Read the instructions below if you want to contribute to OpenMoz website.Our web
 
 We welcome new contributors to dive in and improve our webite. It's a great, hands-on way to learn how things work.Start by setting up evironment.
 
+Make a clone of your repo by typing
+  * $ git clone repourl
+
 ## How to setup environment ?
 
 After cloning OpneMoz repository to your local machines follow this steps:
@@ -18,8 +21,8 @@ After cloning OpneMoz repository to your local machines follow this steps:
    * $ sudo apt-get install nodejs
    * $ sudo apt-get install npm
 
-3.Now install install npm dependencies
-   * $ npm init
+3.Now install npm dependencies
+   * $ npm install
 
 4.This time install express-generator
    * $ npm install -g express-generator
@@ -96,4 +99,4 @@ Message us before making a Pull Request.
 
 Want help? Need to think out loud? 
 
-[Talk to us on Slack](mailto:openmoz@tutanota.com?subject=AddMe) or [email us](mailto:openmoz@tutanota.com).
+[Talk to us on Slack](mailto:ashwin5devarajan@gmail.com?subject=AddMe) or [email us](mailto:ashwin5devarajan@gmail.com).

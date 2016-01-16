@@ -127,6 +127,11 @@ p {
   margin-right: auto;
 }
 
+.layout a.duckgo img.duck {
+ width: 3em;
+ height: 3em;
+}
+
 .layout:after {
   content: "";
   display: table;
