@@ -22,7 +22,7 @@ After cloning OpneMoz repository to your local machines follow this steps:
    * $ sudo apt-get install npm
 
 3.Now install npm dependencies
-   * $ npm init
+   * $ npm install
 
 4.This time install express-generator
    * $ npm install -g express-generator
@@ -99,4 +99,4 @@ Message us before making a Pull Request.
 
 Want help? Need to think out loud? 
 
-[Talk to us on Slack](mailto:openmoz@tutanota.com?subject=AddMe) or [email us](mailto:openmoz@tutanota.com).
+[Talk to us on Slack](mailto:ashwin5devarajan@gmail.com?subject=AddMe) or [email us](mailto:ashwin5devarajan@gmail.com).
