@@ -1,7 +1,7 @@
 # Welcome to OpneMoz's Website Repository
 
 
-**Contribution and helping other build new things is what an Open Source is.**
+**Contributing and helping other build new things is what an Open Source is.**
 
 Read the instructions below if you want to contribute to OpenMoz website.Our website is created by an open source community of developers like you. Welcome!
 
