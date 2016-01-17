@@ -9,6 +9,7 @@
               <% if (page!= 'home') { %>
                 <% if (page === 'eventsList') { %>
                   <%- item.summary %>
+                  <a href="/events/<%= item.shortname %>"><span class="small">...read more</a><span>
                 <% } else { %>
                   <%- item.description %>
                 <% } %>
