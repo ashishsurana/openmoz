@@ -29,6 +29,8 @@ After cloning OpneMoz repository to your local machines follow this steps:
 
 you are done with setting up environment
 
+Also the port on which the will work locally is 3030 you can change it according to your need in bin -> www folder.
+
 **Always create your own branch and don't commit anyhting to master branch before creating PR!**
 
 ## Structure of directory
