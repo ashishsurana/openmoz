@@ -10,7 +10,7 @@
               <% if (page!= 'home') { %>
                 <% if (page === 'blogsList') { %>
                   <%- item.summary %>
-                  <a href="/events/<%= item.shortname %>"><span class="small">...read more</a><span>
+                  <a href="/blogs/<%= item.shortname %>"><span class="small">...read more</a><span>
                 <% } else { %>
                   <%- item.description %>
                 <% } %>
